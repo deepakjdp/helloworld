@@ -6,5 +6,3 @@ fourth line
 
 seven line
 sixt line
-
-nine line
